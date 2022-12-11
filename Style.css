@@ -1,0 +1,195 @@
+﻿body {
+}
+.bckgrnd {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.bckgrnd2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left:50px;
+    padding-right:50px;
+}
+.imgbit {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 400px;
+    padding-left:155px;
+}
+.poster {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 700px;
+    height: 650px;
+    padding-left: 100px;
+}
+.textbody {
+    justify-content: center;
+    color: white;
+    font-size: large;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    line-height: 1.1;
+    font-weight: bold;
+    letter-spacing: .2rem;
+    font-family: Arial;
+}
+.conitem
+{
+    color:white;
+}
+.contact {
+    display: flex;
+    font-family: Arial;
+    flex-direction: column;
+    justify-content: center;
+    height:700px;
+    width:600px;
+    padding-left:50px;
+    font-size:x-large;
+}
+.button {
+    width:400px;
+    font-size: large;
+    font-weight: bold;
+    font-family: inherit;
+    display: flex;
+    justify-content: center;
+    border: 0;
+    background-color: #d41e5b;
+    border: none;
+    color: #fff;
+    padding: 15px 30px;
+    margin: 40px 2px 0px 100px;
+   
+}
+.coninput{
+    font-family: inherit;
+    width: 100%;
+    border: 0;
+    border-bottom: 2px solid white;
+    outline: 0;
+    font-size: 1.3rem;
+    color: white;
+    padding: 7px 0;
+    background: transparent;
+    transition: border-color 0.2s;
+}
+.textbody1 {
+   
+    color: white;
+    font-size: large;
+    display: flex;
+    margin-left: 100px;
+   
+    margin-top: 20px;
+    line-height: 1.1;
+    font-weight: bold;
+    letter-spacing: .2rem;
+    font-family: Arial;
+}
+.homebg {
+    background-image: url(./Images/homebg.png);
+    height: 800px;
+    width: 1300px;
+}
+.firstPink {
+    background-image:url(./Images/dopink.PNG);
+    height: 800px;
+    width: 400px;
+}
+.firstPink1 {
+    background-image: url(./Images/dopink1.PNG);
+    height: 800px;
+    width: 400px;
+}
+.firstPink2 {
+    background-image: url(./Images/dopink2.PNG);
+    height: 800px;
+    width: 400px;
+}
+.scnd {
+    display: flex;
+    flex-direction: column;
+    
+    background-color: black;
+    height: 800px;
+    width: 800px;
+}
+
+.nav-link {
+    color: red;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+body {
+    background-color: black;
+}
+
+.nav-logo {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    padding-left: 100px;
+}
+
+.logo {
+    
+    width:200px;
+    height:70px;
+   
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial;
+}
+.textittle {
+    justify-content: center;
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    display: flex;
+    font-family: Arial;
+    letter-spacing: .3rem;
+    padding-top:470px;
+}
+
+.nav-item {
+    display: flex;
+    padding: 20px;
+    padding-right: 100px;
+}
+
+.nav-link {
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-size: larger;
+    font-weight: bold
+}
+.socialMedia {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    background-color: #d41e5b;
+    width: 1300px;
+    height: 40px;
+    padding-left:40px;
+}
+.socialimg {
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+}
